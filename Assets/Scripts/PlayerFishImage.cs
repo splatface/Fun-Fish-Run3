@@ -14,14 +14,15 @@ public class PlayerFish : MonoBehaviour
 
     //LOGISTICS VARIABLES
     private static int _stepValue = 3; // the exponential amount of extra exp needed to evolve
-    private int _currentExpToEvolve = 100;
+    private int _currentExpToEvolve = 50;
     private int _exp; // how much exp the playerfish currently has
 
 
     // logic behind sprite evolution
     private void SpriteEvol()
     {
-        this._currentAnimation.runtimeAnimatorController = AnimationsController[_currentIndex];
+
+        this._exp += 1;
 
         // get feedback exp from plants code
 
@@ -42,6 +43,7 @@ public class PlayerFish : MonoBehaviour
         this._currentSprite = GetComponent<SpriteRenderer>();
         this._currentAnimation = GetComponent<Animator>();
         this._currentSprite.sprite = Sprites[0];
+        this._currentAnimation.runtimeAnimatorController = AnimationsController[0];
         this._currentIndex = 0;
         this._exp = 0;
     }

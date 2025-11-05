@@ -162,6 +162,9 @@ MonoBehaviour:
   - {fileID: 9100000, guid: 8d549355545f983479b33f8db5cfcbb5, type: 2}
   - {fileID: 9100000, guid: 71718ac9db293234499131b65e9d38a5, type: 2}
   - {fileID: 9100000, guid: 09a4ceeb39f234b4ab56dac56ad34d84, type: 2}
+  - {fileID: 9100000, guid: 14c430285d074574495affb4c5fed3ea, type: 2}
+  - {fileID: 9100000, guid: be7870fee4dc8f64ca60502132e7420a, type: 2}
+  - {fileID: 9100000, guid: fff9c8f59b56a8c4ca5cbfe6d6eb5a34, type: 2}
 --- !u!212 &609272023
 SpriteRenderer:
   m_ObjectHideFlags: 0
