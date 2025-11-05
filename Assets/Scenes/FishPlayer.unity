@@ -151,12 +151,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   sprites:
-  - {fileID: -6962373728337940789, guid: c5f05998917cadf47beb7a040b744fa8, type: 3}
-  - {fileID: 3164707272721218726, guid: f0a6275015674b444b4b34747dd7b219, type: 3}
-  - {fileID: 1722037426169773196, guid: ca0e3a0a8c24383449ea2c3ba60db685, type: 3}
-  - {fileID: 872370917949656475, guid: cfc7a194a8ce15845b1438348a8b803e, type: 3}
-  - {fileID: -5538204950628445106, guid: 06ad8163b88c28948b6ba807d0cb0930, type: 3}
-  - {fileID: 4519016886167164561, guid: 4ac6c3d9a13a7724b9302e635252fce5, type: 3}
+  - {fileID: -6980082681514124884, guid: 958b1318c71d6c543b321e044d0cdfd4, type: 3}
+  - {fileID: -7252937848910917316, guid: 2e15a363db3da474e9bfa297dbada68c, type: 3}
+  - {fileID: 1963954582179660932, guid: f591159fdff89a84cab2a3db1c9b2991, type: 3}
+  - {fileID: -5918779701807597424, guid: d4c64f2695bae9d4faec053f0d1007e6, type: 3}
+  - {fileID: 4254019835200208033, guid: 24d8b90ea856aad48b1caca3d4b37ed8, type: 3}
+  - {fileID: -629278100067409568, guid: de70ea428922d6546855614697a0ff87, type: 3}
 --- !u!212 &609272023
 SpriteRenderer:
   m_ObjectHideFlags: 0

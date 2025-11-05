@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: de70ea428922d6546855614697a0ff87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -629278100067409568
+    second: PlayerSharky(96x80)_0
+  - first:
+      213: 6086479587054199365
+    second: PlayerSharky(96x80)_1
+  - first:
+      213: -2430731299487951410
+    second: PlayerSharky(96x80)_2
+  - first:
+      213: 6829573079238821299
+    second: PlayerSharky(96x80)_3
+  - first:
+      213: -1679454286284233520
+    second: PlayerSharky(96x80)_4
+  - first:
+      213: 2090489054522580031
+    second: PlayerSharky(96x80)_5
+  - first:
+      213: -1467293166376554399
+    second: PlayerSharky(96x80)_6
+  - first:
+      213: 7235791875373698868
+    second: PlayerSharky(96x80)_7
+  - first:
+      213: -8493848127963235284
+    second: PlayerSharky(96x80)_8
+  - first:
+      213: 249591216996957172
+    second: PlayerSharky(96x80)_9
+  - first:
+      213: 8054739301388993733
+    second: PlayerSharky(96x80)_10
+  - first:
+      213: -8543339843783097370
+    second: PlayerSharky(96x80)_11
+  - first:
+      213: -8860801311414206096
+    second: PlayerSharky(96x80)_12
+  - first:
+      213: 6394989203057667759
+    second: PlayerSharky(96x80)_13
+  - first:
+      213: 5279880834421726191
+    second: PlayerSharky(96x80)_14
+  - first:
+      213: 7613171604060703116
+    second: PlayerSharky(96x80)_15
+  - first:
+      213: 789533493815176951
+    second: PlayerSharky(96x80)_16
+  - first:
+      213: 3305776669067476866
+    second: PlayerSharky(96x80)_17
+  - first:
+      213: 1497639098577370046
+    second: PlayerSharky(96x80)_18
+  - first:
+      213: 5327090401441453197
+    second: PlayerSharky(96x80)_19
+  - first:
+      213: 8817347187298460825
+    second: PlayerSharky(96x80)_20
+  - first:
+      213: -2318528604618871055
+    second: PlayerSharky(96x80)_21
+  - first:
+      213: -4054307657321688355
+    second: PlayerSharky(96x80)_22
+  - first:
+      213: 7257807231667660981
+    second: PlayerSharky(96x80)_23
+  - first:
+      213: 7810475650549973282
+    second: PlayerSharky(96x80)_24
+  - first:
+      213: -8895665804500024051
+    second: PlayerSharky(96x80)_25
+  - first:
+      213: -7620072573514089835
+    second: PlayerSharky(96x80)_26
+  - first:
+      213: 1878216924030515386
+    second: PlayerSharky(96x80)_27
+  - first:
+      213: 5819532019659996468
+    second: PlayerSharky(96x80)_28
+  - first:
+      213: -4624388561715488260
+    second: PlayerSharky(96x80)_29
+  - first:
+      213: -4996137914211429370
+    second: PlayerSharky(96x80)_30
+  - first:
+      213: -5037089086065388911
+    second: PlayerSharky(96x80)_31
+  - first:
+      213: -4988223902861764598
+    second: PlayerSharky(96x80)_32
+  - first:
+      213: 5980646794504358165
+    second: PlayerSharky(96x80)_33
+  - first:
+      213: -117578682068991262
+    second: PlayerSharky(96x80)_34
+  - first:
+      213: -2056644326708669261
+    second: PlayerSharky(96x80)_35
+  - first:
+      213: 2663829361931400560
+    second: PlayerSharky(96x80)_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 495
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061ac8ce6ea5447f0800000000000000
+      internalID: -629278100067409568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 495
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5422807dfe4877450800000000000000
+      internalID: 6086479587054199365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 495
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5d89df2ce444ed0800000000000000
+      internalID: -2430731299487951410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 495
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5c99be78487ce50800000000000000
+      internalID: 6829573079238821299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_4
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 495
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d46589893161b8e0800000000000000
+      internalID: -1679454286284233520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 495
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c19ad18b8e20d10800000000000000
+      internalID: 2090489054522580031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_6
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 495
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16074c4a3a023abe0800000000000000
+      internalID: -1467293166376554399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_7
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 495
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f8e40bf52ba6460800000000000000
+      internalID: 7235791875373698868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_8
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 495
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c72a4412acf1a80800000000000000
+      internalID: -8493848127963235284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_9
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 495
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb3924b3e9b67300800000000000000
+      internalID: 249591216996957172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_10
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 495
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c44ba108be28cf60800000000000000
+      internalID: 8054739301388993733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_11
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 495
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e30ed73da5ff6980800000000000000
+      internalID: -8543339843783097370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_12
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 495
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07147df572c180580800000000000000
+      internalID: -8860801311414206096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_13
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 495
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faee5be4cc09fb850800000000000000
+      internalID: 6394989203057667759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 420
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb991815a7e54940800000000000000
+      internalID: 5279880834421726191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_15
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 415
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c890122dc3b67a960800000000000000
+      internalID: 7613171604060703116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_16
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 415
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe602d878cf4fa00800000000000000
+      internalID: 789533493815176951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 418
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f7a82ad5a70ed20800000000000000
+      internalID: 3305776669067476866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_18
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 415
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbb07843dea8c410800000000000000
+      internalID: 1497639098577370046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_19
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 415
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d849f48fe70ade940800000000000000
+      internalID: 5327090401441453197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 335
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994e630fc828d5a70800000000000000
+      internalID: 8817347187298460825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 255
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe2c18a48ee2dfd0800000000000000
+      internalID: -2318528604618871055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 175
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2d1339aa43cb7c0800000000000000
+      internalID: -4054307657321688355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 99
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8efc34939e8b460800000000000000
+      internalID: 7257807231667660981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 100
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2218ed5f832646c60800000000000000
+      internalID: 7810475650549973282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 98
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05cf22051f3c8480800000000000000
+      internalID: -8895665804500024051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_26
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 95
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59afef40e50104690800000000000000
+      internalID: -7620072573514089835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_27
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 94
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab837f75754c01a10800000000000000
+      internalID: 1878216924030515386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_28
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 95
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d78d6e98123c050800000000000000
+      internalID: 5819532019659996468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_29
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 95
+        width: 55
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9919baa1fd2dfb0800000000000000
+      internalID: -4624388561715488260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6041196a9072aaab0800000000000000
+      internalID: -4996137914211429370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_31
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 21
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1925313f92aa81ab0800000000000000
+      internalID: -5037089086065388911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 19
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08dfc10ac446cab0800000000000000
+      internalID: -4988223902861764598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_33
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 15
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519c281a2968ff250800000000000000
+      internalID: 5980646794504358165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 15
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e28e16cfc64e5ef0800000000000000
+      internalID: -117578682068991262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_35
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 13
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b41535a1e45573e0800000000000000
+      internalID: -2056644326708669261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSharky(96x80)_36
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 13
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0753d2ce0b2d7f420800000000000000
+      internalID: 2663829361931400560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayerSharky(96x80)_0: -629278100067409568
+      PlayerSharky(96x80)_1: 6086479587054199365
+      PlayerSharky(96x80)_10: 8054739301388993733
+      PlayerSharky(96x80)_11: -8543339843783097370
+      PlayerSharky(96x80)_12: -8860801311414206096
+      PlayerSharky(96x80)_13: 6394989203057667759
+      PlayerSharky(96x80)_14: 5279880834421726191
+      PlayerSharky(96x80)_15: 7613171604060703116
+      PlayerSharky(96x80)_16: 789533493815176951
+      PlayerSharky(96x80)_17: 3305776669067476866
+      PlayerSharky(96x80)_18: 1497639098577370046
+      PlayerSharky(96x80)_19: 5327090401441453197
+      PlayerSharky(96x80)_2: -2430731299487951410
+      PlayerSharky(96x80)_20: 8817347187298460825
+      PlayerSharky(96x80)_21: -2318528604618871055
+      PlayerSharky(96x80)_22: -4054307657321688355
+      PlayerSharky(96x80)_23: 7257807231667660981
+      PlayerSharky(96x80)_24: 7810475650549973282
+      PlayerSharky(96x80)_25: -8895665804500024051
+      PlayerSharky(96x80)_26: -7620072573514089835
+      PlayerSharky(96x80)_27: 1878216924030515386
+      PlayerSharky(96x80)_28: 5819532019659996468
+      PlayerSharky(96x80)_29: -4624388561715488260
+      PlayerSharky(96x80)_3: 6829573079238821299
+      PlayerSharky(96x80)_30: -4996137914211429370
+      PlayerSharky(96x80)_31: -5037089086065388911
+      PlayerSharky(96x80)_32: -4988223902861764598
+      PlayerSharky(96x80)_33: 5980646794504358165
+      PlayerSharky(96x80)_34: -117578682068991262
+      PlayerSharky(96x80)_35: -2056644326708669261
+      PlayerSharky(96x80)_36: 2663829361931400560
+      PlayerSharky(96x80)_4: -1679454286284233520
+      PlayerSharky(96x80)_5: 2090489054522580031
+      PlayerSharky(96x80)_6: -1467293166376554399
+      PlayerSharky(96x80)_7: 7235791875373698868
+      PlayerSharky(96x80)_8: -8493848127963235284
+      PlayerSharky(96x80)_9: 249591216996957172
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

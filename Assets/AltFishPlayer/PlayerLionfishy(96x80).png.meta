@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: f591159fdff89a84cab2a3db1c9b2991
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1963954582179660932
+    second: PlayerLionfishy(96x80)_0
+  - first:
+      213: -5737002990716894745
+    second: PlayerLionfishy(96x80)_1
+  - first:
+      213: 6342223854718469266
+    second: PlayerLionfishy(96x80)_2
+  - first:
+      213: 8586298706896545706
+    second: PlayerLionfishy(96x80)_3
+  - first:
+      213: 4588611484612573980
+    second: PlayerLionfishy(96x80)_4
+  - first:
+      213: 7488479456363264375
+    second: PlayerLionfishy(96x80)_5
+  - first:
+      213: -2285832488456495016
+    second: PlayerLionfishy(96x80)_6
+  - first:
+      213: -4993351091223548842
+    second: PlayerLionfishy(96x80)_7
+  - first:
+      213: 5867422993951195897
+    second: PlayerLionfishy(96x80)_8
+  - first:
+      213: -3784878540912422560
+    second: PlayerLionfishy(96x80)_9
+  - first:
+      213: 4822162179141911998
+    second: PlayerLionfishy(96x80)_10
+  - first:
+      213: 4968813080803275075
+    second: PlayerLionfishy(96x80)_11
+  - first:
+      213: 6011993904233501900
+    second: PlayerLionfishy(96x80)_12
+  - first:
+      213: -8535516988206602257
+    second: PlayerLionfishy(96x80)_13
+  - first:
+      213: -7580776569069409515
+    second: PlayerLionfishy(96x80)_14
+  - first:
+      213: -6005556381332886048
+    second: PlayerLionfishy(96x80)_15
+  - first:
+      213: 3153460629731530159
+    second: PlayerLionfishy(96x80)_16
+  - first:
+      213: 4794530763457796111
+    second: PlayerLionfishy(96x80)_17
+  - first:
+      213: 506674189272480240
+    second: PlayerLionfishy(96x80)_18
+  - first:
+      213: -2458779412149857251
+    second: PlayerLionfishy(96x80)_19
+  - first:
+      213: -3169176420082798246
+    second: PlayerLionfishy(96x80)_20
+  - first:
+      213: -5544952104830030742
+    second: PlayerLionfishy(96x80)_21
+  - first:
+      213: -817150342764390692
+    second: PlayerLionfishy(96x80)_22
+  - first:
+      213: -3182669587566847129
+    second: PlayerLionfishy(96x80)_23
+  - first:
+      213: -8859509205085493556
+    second: PlayerLionfishy(96x80)_24
+  - first:
+      213: 5746930134189062407
+    second: PlayerLionfishy(96x80)_25
+  - first:
+      213: -6646614319007674332
+    second: PlayerLionfishy(96x80)_26
+  - first:
+      213: -2405658277034812263
+    second: PlayerLionfishy(96x80)_27
+  - first:
+      213: 7257882414950385087
+    second: PlayerLionfishy(96x80)_28
+  - first:
+      213: -2205698097683424256
+    second: PlayerLionfishy(96x80)_29
+  - first:
+      213: -6624526160172620851
+    second: PlayerLionfishy(96x80)_30
+  - first:
+      213: -7255084176117521844
+    second: PlayerLionfishy(96x80)_31
+  - first:
+      213: -707649165814804721
+    second: PlayerLionfishy(96x80)_32
+  - first:
+      213: -5676114756666892021
+    second: PlayerLionfishy(96x80)_33
+  - first:
+      213: 1609981321259514053
+    second: PlayerLionfishy(96x80)_34
+  - first:
+      213: 7944602924589568895
+    second: PlayerLionfishy(96x80)_35
+  - first:
+      213: 3539372711944756990
+    second: PlayerLionfishy(96x80)_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 495
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484c1d9794e514b10800000000000000
+      internalID: 1963954582179660932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 495
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e147f60d221260b0800000000000000
+      internalID: -5737002990716894745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 495
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294c08a4efa140850800000000000000
+      internalID: 6342223854718469266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 495
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7e6f78e29a82770800000000000000
+      internalID: 8586298706896545706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_4
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 495
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b3c9075d50eaf30800000000000000
+      internalID: 4588611484612573980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 495
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779b750d36c6ce760800000000000000
+      internalID: 7488479456363264375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_6
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 495
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850e08d66771740e0800000000000000
+      internalID: -2285832488456495016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_7
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 495
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cafc073ad04bab0800000000000000
+      internalID: -4993351091223548842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_8
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 495
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f28b6540264d6150800000000000000
+      internalID: 5867422993951195897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_9
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 495
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0619aea2509697bc0800000000000000
+      internalID: -3784878540912422560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_10
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 495
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5c319f3f2cbe240800000000000000
+      internalID: 4822162179141911998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_11
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 495
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341f79ccb25c4f440800000000000000
+      internalID: 4968813080803275075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_12
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 495
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4d6ad5a94ee6350800000000000000
+      internalID: 6011993904233501900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_13
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 495
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe722a7b580cb8980800000000000000
+      internalID: -8535516988206602257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 420
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b630700ebabc690800000000000000
+      internalID: -7580776569069409515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 415
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eda21c3a4af7aca0800000000000000
+      internalID: -6005556381332886048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_16
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 415
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5d3582cb753cb20800000000000000
+      internalID: 3153460629731530159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 418
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08959ca358998240800000000000000
+      internalID: 4794530763457796111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_18
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 415
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9f17c9d71180700800000000000000
+      internalID: 506674189272480240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_19
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 415
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1493cdd629a0edd0800000000000000
+      internalID: -2458779412149857251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 335
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51bb6246d2d404d0800000000000000
+      internalID: -3169176420082798246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 255
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c2d07607f5c03b0800000000000000
+      internalID: -5544952104830030742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 175
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6907bb716e8a4f0800000000000000
+      internalID: -817150342764390692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 99
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b93a36fd2e4d3d0800000000000000
+      internalID: -3182669587566847129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 100
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc663925153bc0580800000000000000
+      internalID: -8859509205085493556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 98
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709b35d228231cf40800000000000000
+      internalID: 5746930134189062407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_26
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 95
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420d58cfd7b72c3a0800000000000000
+      internalID: -6646614319007674332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_27
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 94
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c9c52fa826d9ed0800000000000000
+      internalID: -2405658277034812263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_28
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 95
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb50cac3a9d29b460800000000000000
+      internalID: 7257882414950385087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_29
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 95
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c13d53449c361e0800000000000000
+      internalID: -2205698097683424256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 20
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3e0a93e84f014a0800000000000000
+      internalID: -6624526160172620851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 21
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4225f28163c05b90800000000000000
+      internalID: -7255084176117521844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 19
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fc10e35dced26f0800000000000000
+      internalID: -707649165814804721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_33
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 15
+        width: 80
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b016480c3b36a31b0800000000000000
+      internalID: -5676114756666892021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 15
+        width: 68
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8ffac4b7dc75610800000000000000
+      internalID: 1609981321259514053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_35
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 13
+        width: 73
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73d0b18446e04e60800000000000000
+      internalID: 7944602924589568895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLionfishy(96x80)_36
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 13
+        width: 72
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe9d27aab06e1130800000000000000
+      internalID: 3539372711944756990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayerLionfishy(96x80)_0: 1963954582179660932
+      PlayerLionfishy(96x80)_1: -5737002990716894745
+      PlayerLionfishy(96x80)_10: 4822162179141911998
+      PlayerLionfishy(96x80)_11: 4968813080803275075
+      PlayerLionfishy(96x80)_12: 6011993904233501900
+      PlayerLionfishy(96x80)_13: -8535516988206602257
+      PlayerLionfishy(96x80)_14: -7580776569069409515
+      PlayerLionfishy(96x80)_15: -6005556381332886048
+      PlayerLionfishy(96x80)_16: 3153460629731530159
+      PlayerLionfishy(96x80)_17: 4794530763457796111
+      PlayerLionfishy(96x80)_18: 506674189272480240
+      PlayerLionfishy(96x80)_19: -2458779412149857251
+      PlayerLionfishy(96x80)_2: 6342223854718469266
+      PlayerLionfishy(96x80)_20: -3169176420082798246
+      PlayerLionfishy(96x80)_21: -5544952104830030742
+      PlayerLionfishy(96x80)_22: -817150342764390692
+      PlayerLionfishy(96x80)_23: -3182669587566847129
+      PlayerLionfishy(96x80)_24: -8859509205085493556
+      PlayerLionfishy(96x80)_25: 5746930134189062407
+      PlayerLionfishy(96x80)_26: -6646614319007674332
+      PlayerLionfishy(96x80)_27: -2405658277034812263
+      PlayerLionfishy(96x80)_28: 7257882414950385087
+      PlayerLionfishy(96x80)_29: -2205698097683424256
+      PlayerLionfishy(96x80)_3: 8586298706896545706
+      PlayerLionfishy(96x80)_30: -6624526160172620851
+      PlayerLionfishy(96x80)_31: -7255084176117521844
+      PlayerLionfishy(96x80)_32: -707649165814804721
+      PlayerLionfishy(96x80)_33: -5676114756666892021
+      PlayerLionfishy(96x80)_34: 1609981321259514053
+      PlayerLionfishy(96x80)_35: 7944602924589568895
+      PlayerLionfishy(96x80)_36: 3539372711944756990
+      PlayerLionfishy(96x80)_4: 4588611484612573980
+      PlayerLionfishy(96x80)_5: 7488479456363264375
+      PlayerLionfishy(96x80)_6: -2285832488456495016
+      PlayerLionfishy(96x80)_7: -4993351091223548842
+      PlayerLionfishy(96x80)_8: 5867422993951195897
+      PlayerLionfishy(96x80)_9: -3784878540912422560
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

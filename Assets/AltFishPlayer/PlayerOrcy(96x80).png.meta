@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: d4c64f2695bae9d4faec053f0d1007e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5918779701807597424
+    second: PlayerOrcy(96x80)_0
+  - first:
+      213: -5186052462575394233
+    second: PlayerOrcy(96x80)_1
+  - first:
+      213: 3624302168583316387
+    second: PlayerOrcy(96x80)_2
+  - first:
+      213: 2894436323878751992
+    second: PlayerOrcy(96x80)_3
+  - first:
+      213: -5728652371803858601
+    second: PlayerOrcy(96x80)_4
+  - first:
+      213: 442657963809218787
+    second: PlayerOrcy(96x80)_5
+  - first:
+      213: 5655374661351701129
+    second: PlayerOrcy(96x80)_6
+  - first:
+      213: -323195508299959474
+    second: PlayerOrcy(96x80)_7
+  - first:
+      213: 7109634090986086984
+    second: PlayerOrcy(96x80)_8
+  - first:
+      213: 1467396008164641829
+    second: PlayerOrcy(96x80)_9
+  - first:
+      213: 1572196865568081174
+    second: PlayerOrcy(96x80)_10
+  - first:
+      213: -8288184055907008558
+    second: PlayerOrcy(96x80)_11
+  - first:
+      213: -8462886769869938083
+    second: PlayerOrcy(96x80)_12
+  - first:
+      213: 4902680330244103215
+    second: PlayerOrcy(96x80)_13
+  - first:
+      213: 7034115287388741503
+    second: PlayerOrcy(96x80)_14
+  - first:
+      213: -8910818206011240337
+    second: PlayerOrcy(96x80)_15
+  - first:
+      213: -4176963552644453306
+    second: PlayerOrcy(96x80)_16
+  - first:
+      213: -4845190228783688845
+    second: PlayerOrcy(96x80)_17
+  - first:
+      213: 7068023496375109954
+    second: PlayerOrcy(96x80)_18
+  - first:
+      213: 2525982645736918361
+    second: PlayerOrcy(96x80)_19
+  - first:
+      213: -8119527450245295067
+    second: PlayerOrcy(96x80)_20
+  - first:
+      213: 6961197770612641286
+    second: PlayerOrcy(96x80)_21
+  - first:
+      213: -3016023763743073999
+    second: PlayerOrcy(96x80)_22
+  - first:
+      213: -1166522773320493031
+    second: PlayerOrcy(96x80)_23
+  - first:
+      213: 5414398664679261381
+    second: PlayerOrcy(96x80)_24
+  - first:
+      213: 6414197569743014509
+    second: PlayerOrcy(96x80)_25
+  - first:
+      213: -1180926015726223780
+    second: PlayerOrcy(96x80)_26
+  - first:
+      213: 7453493887199210929
+    second: PlayerOrcy(96x80)_27
+  - first:
+      213: -6793373577561200085
+    second: PlayerOrcy(96x80)_28
+  - first:
+      213: 205891892801118523
+    second: PlayerOrcy(96x80)_29
+  - first:
+      213: -8622824896356402142
+    second: PlayerOrcy(96x80)_30
+  - first:
+      213: 7785859393899362462
+    second: PlayerOrcy(96x80)_31
+  - first:
+      213: 6970033846170014234
+    second: PlayerOrcy(96x80)_32
+  - first:
+      213: 4502595144113238606
+    second: PlayerOrcy(96x80)_33
+  - first:
+      213: 6783439752708843632
+    second: PlayerOrcy(96x80)_34
+  - first:
+      213: 8041474253557641031
+    second: PlayerOrcy(96x80)_35
+  - first:
+      213: 5674215423816488546
+    second: PlayerOrcy(96x80)_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 495
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09837f168354cdda0800000000000000
+      internalID: -5918779701807597424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 495
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74267ad13c07708b0800000000000000
+      internalID: -5186052462575394233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 495
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a32615be9b1c4230800000000000000
+      internalID: 3624302168583316387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 495
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fec7cd408a1b2820800000000000000
+      internalID: 2894436323878751992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_4
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 495
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7599ee0050dbf70b0800000000000000
+      internalID: -5728652371803858601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 495
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0a8d1a213a42600800000000000000
+      internalID: 442657963809218787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_6
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 495
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98afc918a4deb7e40800000000000000
+      internalID: 5655374661351701129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_7
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 495
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4377c6c567c38bf0800000000000000
+      internalID: -323195508299959474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_8
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 495
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842ab3c898e7aa260800000000000000
+      internalID: 7109634090986086984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_9
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 495
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cca7315ec3d5410800000000000000
+      internalID: 1467396008164641829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_10
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 495
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6150b2928b091d510800000000000000
+      internalID: 1572196865568081174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_11
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 495
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df3b9a83847afc80800000000000000
+      internalID: -8288184055907008558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_12
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 495
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52ac833259cd8a80800000000000000
+      internalID: -8462886769869938083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_13
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 495
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c9e7be8c1d90440800000000000000
+      internalID: 4902680330244103215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 420
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f53f5e5923e9160800000000000000
+      internalID: 7034115287388741503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_15
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 415
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60dd9c9d0a665480800000000000000
+      internalID: -8910818206011240337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_16
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 415
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cafd487c17806c0800000000000000
+      internalID: -4176963552644453306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 418
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3739728682d62ccb0800000000000000
+      internalID: -4845190228783688845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_18
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 415
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2498d850ce9a61260800000000000000
+      internalID: 7068023496375109954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_19
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 415
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d43f345d71e0320800000000000000
+      internalID: 2525982645736918361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 335
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52498189dc4a15f80800000000000000
+      internalID: -8119527450245295067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 255
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e8b988d742b9060800000000000000
+      internalID: 6961197770612641286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 175
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13915ffcd5ee426d0800000000000000
+      internalID: -3016023763743073999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 99
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91814d9d7bdafcfe0800000000000000
+      internalID: -1166522773320493031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 100
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c48e8816eec32b40800000000000000
+      internalID: 5414398664679261381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 98
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ac4bfa4bec30950800000000000000
+      internalID: 6414197569743014509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_26
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 95
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5efe96ab028c9fe0800000000000000
+      internalID: -1180926015726223780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_27
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 94
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bded0a3331207760800000000000000
+      internalID: 7453493887199210929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_28
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 95
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aa0fa59b619b1a0800000000000000
+      internalID: -6793373577561200085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_29
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 95
+        width: 55
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b312b8ce5997bd200800000000000000
+      internalID: 205891892801118523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c38444172955880800000000000000
+      internalID: -8622824896356402142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_31
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 21
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9872841eddec0c60800000000000000
+      internalID: 7785859393899362462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 19
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12d961bad88ab060800000000000000
+      internalID: 6970033846170014234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_33
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 15
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42b4448d6e6c7e30800000000000000
+      internalID: 4502595144113238606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 15
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078697fc38e932e50800000000000000
+      internalID: 6783439752708843632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_35
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 13
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fa0c16a3e099f60800000000000000
+      internalID: 8041474253557641031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOrcy(96x80)_36
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 13
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266df9b5ddcdebe40800000000000000
+      internalID: 5674215423816488546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayerOrcy(96x80)_0: -5918779701807597424
+      PlayerOrcy(96x80)_1: -5186052462575394233
+      PlayerOrcy(96x80)_10: 1572196865568081174
+      PlayerOrcy(96x80)_11: -8288184055907008558
+      PlayerOrcy(96x80)_12: -8462886769869938083
+      PlayerOrcy(96x80)_13: 4902680330244103215
+      PlayerOrcy(96x80)_14: 7034115287388741503
+      PlayerOrcy(96x80)_15: -8910818206011240337
+      PlayerOrcy(96x80)_16: -4176963552644453306
+      PlayerOrcy(96x80)_17: -4845190228783688845
+      PlayerOrcy(96x80)_18: 7068023496375109954
+      PlayerOrcy(96x80)_19: 2525982645736918361
+      PlayerOrcy(96x80)_2: 3624302168583316387
+      PlayerOrcy(96x80)_20: -8119527450245295067
+      PlayerOrcy(96x80)_21: 6961197770612641286
+      PlayerOrcy(96x80)_22: -3016023763743073999
+      PlayerOrcy(96x80)_23: -1166522773320493031
+      PlayerOrcy(96x80)_24: 5414398664679261381
+      PlayerOrcy(96x80)_25: 6414197569743014509
+      PlayerOrcy(96x80)_26: -1180926015726223780
+      PlayerOrcy(96x80)_27: 7453493887199210929
+      PlayerOrcy(96x80)_28: -6793373577561200085
+      PlayerOrcy(96x80)_29: 205891892801118523
+      PlayerOrcy(96x80)_3: 2894436323878751992
+      PlayerOrcy(96x80)_30: -8622824896356402142
+      PlayerOrcy(96x80)_31: 7785859393899362462
+      PlayerOrcy(96x80)_32: 6970033846170014234
+      PlayerOrcy(96x80)_33: 4502595144113238606
+      PlayerOrcy(96x80)_34: 6783439752708843632
+      PlayerOrcy(96x80)_35: 8041474253557641031
+      PlayerOrcy(96x80)_36: 5674215423816488546
+      PlayerOrcy(96x80)_4: -5728652371803858601
+      PlayerOrcy(96x80)_5: 442657963809218787
+      PlayerOrcy(96x80)_6: 5655374661351701129
+      PlayerOrcy(96x80)_7: -323195508299959474
+      PlayerOrcy(96x80)_8: 7109634090986086984
+      PlayerOrcy(96x80)_9: 1467396008164641829
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
