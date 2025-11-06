@@ -9,7 +9,7 @@ public class FishFood : MonoBehaviour
     void Start()
     {
         int randomSpeed = Random.Range(4, 10);
-        int randomXP = Random.Range(3, 8);
+        int randomXP = Random.Range(15, 40);
         this._speed = randomSpeed;
         this._xpToGive = randomXP;
 
