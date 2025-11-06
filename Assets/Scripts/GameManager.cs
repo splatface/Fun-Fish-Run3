@@ -18,8 +18,7 @@ public class GameManager : MonoBehaviour
         {
             int startY = Random.Range(-5, 5);
             Vector3 spawnPosition = new Vector3(2, startY, 0);
-            Instantiate(fishFood, spawnPosition, Quaternion.identity);
-            Debug.Log("spawning");
+            GameObject testingObject = Instantiate(fishFood, spawnPosition, Quaternion.identity);
             yield return new WaitForSeconds(delayBetweenSpawns);
         }
         
@@ -28,6 +27,6 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }

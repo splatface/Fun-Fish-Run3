@@ -6,21 +6,28 @@ public class FishFood : MonoBehaviour
     private int _speed;
     private int _xpToGive;
     private Rigidbody2D rb;
-    private float appliedForce = 1000f;
-    private int _startX;
-    private int _startY;
+    //int randomSpeed = Random.Range(1, 10);
+    //int randomXP = Random.Range(1, 10);
+
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        int randomStart = Random.Range(-100, 100);
-        int randomXP = Random.Range(1, 10);
+        int randomSpeed = Random.Range(4, 10);
+        int randomXP = Random.Range(3, 8);
+        this._speed = randomSpeed;
+        this._xpToGive = randomXP;
+
     }
-    public FishFood(int speed, int xpToGive)
+    void Update()
     {
-        this._speed = speed;
-        this._xpToGive = xpToGive;
+        this.Travel();
+        if (transform.position.x <= -11)
+        {
+            this.Disappear();
+        }
     }
+
     public int GetXPToGive()
     {
         return _xpToGive;
@@ -32,6 +39,7 @@ public class FishFood : MonoBehaviour
     }
     public void Travel()
     {
-        rb.AddForce(new Vector2(1f * appliedForce, 0f), ForceMode2D.Impulse); // i think i have to make 1f negative to go to the left ? 
+        Vector3 addPosition = new Vector3(-0.005f * this._speed, 0, 0);
+        transform.position += addPosition;
     }
 }
