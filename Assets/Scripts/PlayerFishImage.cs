@@ -22,10 +22,6 @@ public class PlayerFish : MonoBehaviour
     private void SpriteEvol()
     {
 
-        this._exp += 1;
-
-        // get feedback exp from plants code
-
         // logic of evolution
         if (this._exp > this._currentExpToEvolve)
         {
@@ -34,6 +30,25 @@ public class PlayerFish : MonoBehaviour
             // updates the sprites and animations
             this._currentSprite.sprite = Sprites[_currentIndex];
             this._currentAnimation.runtimeAnimatorController = AnimationsController[_currentIndex];
+        }
+    }
+
+    public int ExpGained(FishFood fishfood)
+    {
+        return fishfood.GetXPToGive();
+    }
+
+    void OnTriggerEnter(UnityEngine.Collider other) // collision with fish food to gain exp
+    {
+
+        GameObject otherGameObject = other.gameObject;
+        FishFood fishFood = otherGameObject.GetComponent<FishFood>();
+
+        if (other.gameObject.CompareTag("FishFood"))
+        {
+            //call Selena's function to return exp
+            int fishExp = fishFood.GetXPToGive();
+            this._exp += fishExp;
         }
     }
 
