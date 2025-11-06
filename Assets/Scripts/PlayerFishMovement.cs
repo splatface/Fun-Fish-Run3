@@ -2,12 +2,15 @@ using UnityEngine;
 
 public class PlayerFishMovement : MonoBehaviour
 {
-    private float _movementSpeed = 2f; // how fast the fish moves
-    private Vector3 _startPos = new Vector3(-2f, 0f, 0);
+    private float _movementSpeed = 6f; // how fast the fish moves
+    private Vector2 _startPos = new Vector2(-2f, 0f);
+
+    public Rigidbody2D FishBody;
 
     void Start()
     {
-        transform.position = this._startPos;
+        FishBody = GetComponent<Rigidbody2D>();
+        FishBody.position = _startPos;
     }
 
     // Update is called once per frame
@@ -15,6 +18,6 @@ public class PlayerFishMovement : MonoBehaviour
     {
         float verticalMovement = Input.GetAxisRaw("Vertical"); // gets the vertical (ws, up, down) input
 
-        transform.position += _movementSpeed * Time.deltaTime * new Vector3(0f, verticalMovement);
+        this.FishBody.MovePosition(FishBody.position + new Vector2(0f, verticalMovement) * this._movementSpeed * Time.deltaTime);
     }
 }

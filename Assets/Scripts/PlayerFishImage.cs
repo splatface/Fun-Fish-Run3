@@ -14,7 +14,7 @@ public class PlayerFish : MonoBehaviour
 
     //LOGISTICS VARIABLES
     private static int _stepValue = 3; // the exponential amount of extra exp needed to evolve
-    private int _currentExpToEvolve = 50;
+    private int _currentExpToEvolve = 20;
     private int _exp; // how much exp the playerfish currently has
 
 
@@ -33,16 +33,11 @@ public class PlayerFish : MonoBehaviour
         }
     }
 
-    public int ExpGained(FishFood fishfood)
+    void OnTriggerEnter2D(Collider2D other) // collision with fish food to gain exp
     {
-        return fishfood.GetXPToGive();
-    }
-
-    void OnTriggerEnter(UnityEngine.Collider other) // collision with fish food to gain exp
-    {
-
         GameObject otherGameObject = other.gameObject;
         FishFood fishFood = otherGameObject.GetComponent<FishFood>();
+        Debug.Log("collided");
 
         if (other.gameObject.CompareTag("FishFood"))
         {
