@@ -5,16 +5,11 @@ public class FishFood : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private int _speed;
     private int _xpToGive;
-    private Rigidbody2D rb;
-    //int randomSpeed = Random.Range(1, 10);
-    //int randomXP = Random.Range(1, 10);
-
 
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
         int randomSpeed = Random.Range(4, 10);
-        int randomXP = Random.Range(3, 8);
+        int randomXP = Random.Range(15, 40);
         this._speed = randomSpeed;
         this._xpToGive = randomXP;
 
