@@ -37,12 +37,12 @@ public class PlayerFish : MonoBehaviour
     {
         GameObject otherGameObject = other.gameObject;
         FishFood fishFood = otherGameObject.GetComponent<FishFood>();
-        Debug.Log("collided");
 
         if (other.gameObject.CompareTag("FishFood"))
         {
             //call Selena's function to return exp
             int fishExp = fishFood.GetXPToGive();
+            fishFood.Disappear();
             this._exp += fishExp;
         }
     }
