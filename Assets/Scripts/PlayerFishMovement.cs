@@ -18,7 +18,7 @@ public class PlayerFishMovement : MonoBehaviour
     {
         float verticalMovement = Input.GetAxisRaw("Vertical"); // gets the vertical (ws, up, down) input
 
-        if (this.FishBody.position.y <= 5f && this.FishBody.position.y >= -5f) // inside the screen
+        if (this.FishBody.position.y + verticalMovement <= 5.5f && this.FishBody.position.y + verticalMovement >= -5.5f) // inside the screen
         {
         this.FishBody.MovePosition(FishBody.position + new Vector2(0f, verticalMovement) * this._movementSpeed * Time.deltaTime);
         }
