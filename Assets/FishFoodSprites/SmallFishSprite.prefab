@@ -10,8 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2829212207987215225}
   - component: {fileID: 7922301861988203666}
-  - component: {fileID: -4118418362247166593}
   - component: {fileID: 8078053303977783729}
+  - component: {fileID: 6985941781771969056}
   m_Layer: 0
   m_Name: SmallFishSprite
   m_TagString: FishFood
@@ -92,18 +92,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &-4118418362247166593
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4868219867408655329}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 830af54f64ff33a4199570eedc673ff2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FishFood
 --- !u!61 &8078053303977783729
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -150,3 +138,15 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.31318593, y: 0.13561171}
   m_EdgeRadius: 0
+--- !u!114 &6985941781771969056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4868219867408655329}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49fb1d06a568f8b4ba769387e88aee1e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SmallFish

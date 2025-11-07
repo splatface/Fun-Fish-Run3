@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4017099654409148387}
   - component: {fileID: 3267074319158064402}
   - component: {fileID: 2351535558136955976}
-  - component: {fileID: -7258841840896467363}
+  - component: {fileID: -5712883285345463365}
   m_Layer: 0
   m_Name: Plant
   m_TagString: FishFood
@@ -138,7 +138,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.0625, y: 0.625}
   m_EdgeRadius: 0
---- !u!114 &-7258841840896467363
+--- !u!114 &-5712883285345463365
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -147,6 +147,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 5907698543842684071}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 830af54f64ff33a4199570eedc673ff2, type: 3}
+  m_Script: {fileID: 11500000, guid: e452dde4158540c46ad4cc064f61bc7e, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FishFood
+  m_EditorClassIdentifier: Assembly-CSharp::Plant

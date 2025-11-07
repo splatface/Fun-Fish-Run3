@@ -5,7 +5,7 @@ public class GameManager : MonoBehaviour
 {
     public GameObject SmallFish;
     public GameObject Plant;
-    public float delayBetweenSpawns = 1.5f;
+    private float delayBetweenSpawns = 1.5f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

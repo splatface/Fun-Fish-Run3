@@ -32,7 +32,7 @@ public class FishFood : MonoBehaviour
     {
         Destroy(this.gameObject);
     }
-    public void Travel()
+    public virtual void Travel()
     {
         Vector3 addPosition = new Vector3(-0.005f * this._speed, 0, 0);
         transform.position += addPosition;

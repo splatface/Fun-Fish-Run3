@@ -285,8 +285,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 837fe2c3af3520f49ac718aebfc0e58f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
-  fishFood: {fileID: 4868219867408655329, guid: 5dd72aaabf845054ebd04fba29756451, type: 3}
-  delayBetweenSpawns: 0.5
+  SmallFish: {fileID: 4868219867408655329, guid: 5dd72aaabf845054ebd04fba29756451, type: 3}
+  Plant: {fileID: 5907698543842684071, guid: f4170b2592356914c9556dfa1f49cb4d, type: 3}
+  delayBetweenSpawns: 1.5
 --- !u!4 &1946216906
 Transform:
   m_ObjectHideFlags: 0
