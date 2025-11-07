@@ -14,7 +14,7 @@ public class PlayerFish : MonoBehaviour
 
     //LOGISTICS VARIABLES
     private static int _stepValue = 3; // the exponential amount of extra exp needed to evolve
-    private int _currentExpToEvolve = 20;
+    private int _currentExpToEvolve = 40;
     private int _exp; // how much exp the playerfish currently has
 
 
