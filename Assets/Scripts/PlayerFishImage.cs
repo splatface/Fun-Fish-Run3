@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerFish : MonoBehaviour
 {
@@ -10,6 +11,7 @@ public class PlayerFish : MonoBehaviour
     public RuntimeAnimatorController[] AnimationsController; // all animations for sprites (same indexes as sprites array)
     private Animator _currentAnimation;
     private int _currentIndex; // current index of the sprites array
+    private bool _isDead; 
 
 
     //LOGISTICS VARIABLES
@@ -38,6 +40,11 @@ public class PlayerFish : MonoBehaviour
         return this._currentIndex;
     }
 
+    private static void DeadState()
+    {
+        SceneManager.LoadScene("DeadScreen");
+    }
+
     void OnTriggerEnter2D(Collider2D other) // collision with fish food to gain exp
     {
         GameObject otherGameObject = other.gameObject;
@@ -49,6 +56,11 @@ public class PlayerFish : MonoBehaviour
             int fishExp = fishFood.GetXPToGive();
             fishFood.Disappear();
             this._exp += fishExp;
+        }
+
+        if (other.gameObject.CompareTag("FishHook"))
+        {
+            DeadState();
         }
     }
 
