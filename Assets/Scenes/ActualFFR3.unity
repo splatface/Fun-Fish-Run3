@@ -910,7 +910,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   SmallFish: {fileID: 4868219867408655329, guid: 5dd72aaabf845054ebd04fba29756451, type: 3}
   Plant: {fileID: 5907698543842684071, guid: f4170b2592356914c9556dfa1f49cb4d, type: 3}
-  delayBetweenSpawns: 0.5
+  Player: {fileID: 890642459}
 --- !u!4 &2117520159
 Transform:
   m_ObjectHideFlags: 0

@@ -5,6 +5,7 @@ public class GameManager : MonoBehaviour
 {
     public GameObject SmallFish;
     public GameObject Plant;
+    public GameObject Player;
     private float delayBetweenSpawns = 1.5f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -31,6 +32,14 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        PlayerFish playerFish = Player.GetComponent<PlayerFish>();
+        if (playerFish.GetCurrentIndex() == 2)
+        {
+            delayBetweenSpawns = 1.0f;
+        }
+        if (playerFish.GetCurrentIndex() == 4)
+        {
+            delayBetweenSpawns = 0.5f;
+        }
     }
 }
