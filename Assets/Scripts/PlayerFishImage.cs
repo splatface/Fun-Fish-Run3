@@ -33,6 +33,11 @@ public class PlayerFish : MonoBehaviour
         }
     }
 
+    public int GetCurrentIndex()
+    {
+        return this._currentIndex;
+    }
+
     void OnTriggerEnter2D(Collider2D other) // collision with fish food to gain exp
     {
         GameObject otherGameObject = other.gameObject;

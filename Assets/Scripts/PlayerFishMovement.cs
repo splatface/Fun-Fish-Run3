@@ -9,8 +9,8 @@ public class PlayerFishMovement : MonoBehaviour
 
     void Start()
     {
-        FishBody = GetComponent<Rigidbody2D>();
-        FishBody.position = _startPos;
+        this.FishBody = GetComponent<Rigidbody2D>();
+        this.FishBody.position = _startPos;
     }
 
     // Update is called once per frame
@@ -18,6 +18,10 @@ public class PlayerFishMovement : MonoBehaviour
     {
         float verticalMovement = Input.GetAxisRaw("Vertical"); // gets the vertical (ws, up, down) input
 
+        if (this.FishBody.position.y <= 5f && this.FishBody.position.y >= -5f) // inside the screen
+        {
         this.FishBody.MovePosition(FishBody.position + new Vector2(0f, verticalMovement) * this._movementSpeed * Time.deltaTime);
+        }
+
     }
 }
