@@ -42,26 +42,33 @@ public class PlayerFish : MonoBehaviour
 
     private static void DeadState()
     {
-        SceneManager.LoadScene("DeadScreen");
+        SceneManager.LoadScene("DeadScene");
+        Debug.Log("died.");
     }
 
     void OnTriggerEnter2D(Collider2D other) // collision with fish food to gain exp
     {
         GameObject otherGameObject = other.gameObject;
-        FishFood fishFood = otherGameObject.GetComponent<FishFood>();
 
         if (other.gameObject.CompareTag("FishFood"))
         {
             //call Selena's function to return exp
+            FishFood fishFood = otherGameObject.GetComponent<FishFood>();
+
+
             int fishExp = fishFood.GetXPToGive();
             fishFood.Disappear();
+
+
             this._exp += fishExp;
+            Debug.Log("eaten");
         }
 
         if (other.gameObject.CompareTag("FishHook"))
         {
             DeadState();
         }
+
     }
 
     void Start()
