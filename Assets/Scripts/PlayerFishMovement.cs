@@ -7,6 +7,11 @@ public class PlayerFishMovement : MonoBehaviour
 
     public Rigidbody2D FishBody;
 
+    public void Reset()
+    {
+        this.FishBody.position = _startPos;
+    }
+
     void Start()
     {
         this.FishBody = GetComponent<Rigidbody2D>();

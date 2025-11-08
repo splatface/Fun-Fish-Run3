@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ActualFFR3.unity
     guid: 14e846f1d5d8b3f42b45cf5350b792da
+  - enabled: 1
+    path: Assets/Scenes/DeadScene.unity
+    guid: 04d222975c9450c45b2917007af52ba7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

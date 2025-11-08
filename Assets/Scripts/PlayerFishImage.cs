@@ -10,14 +10,13 @@ public class PlayerFish : MonoBehaviour
     private SpriteRenderer _currentSprite;
     public RuntimeAnimatorController[] AnimationsController; // all animations for sprites (same indexes as sprites array)
     private Animator _currentAnimation;
-    private int _currentIndex; // current index of the sprites array
-    private bool _isDead; 
+    private int _currentIndex = 0; // current index of the sprites array
 
 
     //LOGISTICS VARIABLES
     private static int _stepValue = 3; // the exponential amount of extra exp needed to evolve
     private int _currentExpToEvolve = 40;
-    private int _exp; // how much exp the playerfish currently has
+    private int _exp = 0; // how much exp the playerfish currently has
 
 
     // logic behind sprite evolution
@@ -43,7 +42,13 @@ public class PlayerFish : MonoBehaviour
     private static void DeadState()
     {
         SceneManager.LoadScene("DeadScene");
-        Debug.Log("died.");
+    }
+
+    public void Reset()
+    {
+        this._exp = 0;
+        this._currentIndex = 0;
+        this._currentExpToEvolve = 40;
     }
 
     void OnTriggerEnter2D(Collider2D other) // collision with fish food to gain exp
@@ -61,7 +66,6 @@ public class PlayerFish : MonoBehaviour
 
 
             this._exp += fishExp;
-            Debug.Log("eaten");
         }
 
         if (other.gameObject.CompareTag("FishHook"))
@@ -78,8 +82,6 @@ public class PlayerFish : MonoBehaviour
         this._currentAnimation = GetComponent<Animator>();
         this._currentSprite.sprite = Sprites[0];
         this._currentAnimation.runtimeAnimatorController = AnimationsController[0];
-        this._currentIndex = 0;
-        this._exp = 0;
     }
 
     // Update is called once per frame
