@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -39,6 +40,10 @@ public class GameManager : MonoBehaviour
         if (Player.GetCurrentIndex() == 4)
         {
             delayBetweenSpawns = 0.5f;
+        }
+        if (Player.GetCurrentIndex() == 6)
+        {
+            SceneManager.LoadScene(sceneName: "WinScreen");
         }
     }
 }
