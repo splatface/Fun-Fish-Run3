@@ -17,7 +17,7 @@ public class FishFood : MonoBehaviour
     void Update()
     {
         this.Travel();
-        if (transform.position.x <= -11)
+        if (this.transform.position.x <= -11)
         {
             this.Disappear();
         }
@@ -25,7 +25,7 @@ public class FishFood : MonoBehaviour
 
     public int GetXPToGive()
     {
-        return _xpToGive;
+        return this._xpToGive;
     }
 
     public void Disappear()
@@ -35,6 +35,6 @@ public class FishFood : MonoBehaviour
     public virtual void Travel()
     {
         Vector3 addPosition = new Vector3(-0.005f * this._speed, 0, 0);
-        transform.position += addPosition;
+        this.transform.position += addPosition;
     }
 }
