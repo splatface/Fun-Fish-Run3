@@ -7,7 +7,7 @@ public class GameManager : MonoBehaviour
     public GameObject SmallFish;
     public GameObject Plant;
     public PlayerFish Player;
-    private float delayBetweenSpawns = 1.5f;
+    private float _delayBetweenSpawns = 1.5f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -21,11 +21,13 @@ public class GameManager : MonoBehaviour
         {
             int startYFish = Random.Range(-5, 5);
             Vector3 spawnPositionFish = new Vector3(10, startYFish, 0);
+
             int startYPlant = Random.Range(-5, 5); 
             Vector3 spawnPositionPlant = new Vector3(10, startYPlant, 0);
-            GameObject smallFish = Instantiate(SmallFish, spawnPositionFish, Quaternion.identity);
-            GameObject plant = Instantiate(Plant, spawnPositionPlant, Quaternion.identity);
-            yield return new WaitForSeconds(delayBetweenSpawns);
+
+            GameObject smallFish = Instantiate(this.SmallFish, spawnPositionFish, Quaternion.identity);
+            GameObject plant = Instantiate(this.Plant, spawnPositionPlant, Quaternion.identity);
+            yield return new WaitForSeconds(this._delayBetweenSpawns);
         }
         
     }
@@ -35,13 +37,13 @@ public class GameManager : MonoBehaviour
     {
         if (Player.GetCurrentIndex() == 2)
         {
-            delayBetweenSpawns = 1.0f;
+            this._delayBetweenSpawns = 1.0f;
         }
-        if (Player.GetCurrentIndex() == 4)
+        else if (Player.GetCurrentIndex() == 4)
         {
-            delayBetweenSpawns = 0.5f;
+            this._delayBetweenSpawns = 0.5f;
         }
-        if (Player.GetCurrentIndex() == 6)
+        else if (Player.GetCurrentIndex() == 6)
         {
             SceneManager.LoadScene(sceneName: "WinScreen");
         }
