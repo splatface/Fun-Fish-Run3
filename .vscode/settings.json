@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Fun-Fish-Run3.sln"
+    "dotnet.defaultSolution": "Fun-Fish-Run3.slnx"
 }
