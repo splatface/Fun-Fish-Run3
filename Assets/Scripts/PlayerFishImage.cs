@@ -73,6 +73,11 @@ public class PlayerFish : MonoBehaviour
             DeadState();
         }
 
+        if (other.gameobject.CompareTag("Plastic"))
+        {
+            DeadState();
+        }
+
     }
 
     void Start()
